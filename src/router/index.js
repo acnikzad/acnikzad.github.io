@@ -1,14 +1,26 @@
-import Vue from 'vue'
-import VueRouter from 'vue-router'
-import Home from '../views/Home.vue'
+import Vue from 'vue';
+import VueRouter from 'vue-router';
+import Home from '../views/Home.vue';
+import CorsegaEyewear from '../views/CorsegaEyewear.vue';
+import BlockHound from '../views/BlockHound.vue';
 
-Vue.use(VueRouter)
+Vue.use(VueRouter);
 
 const routes = [
   {
     path: '/',
     name: 'home',
     component: Home
+  },
+  {
+    path: '/corsega',
+    name: 'corsega',
+    component: CorsegaEyewear
+  },
+  {
+    path: '/blockhound',
+    name: 'blockhound',
+    component: BlockHound
   },
   {
     path: '/about',
@@ -18,12 +30,12 @@ const routes = [
     // which is lazy-loaded when the route is visited.
     component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
   }
-]
+];
 
 const router = new VueRouter({
   mode: 'history',
   base: process.env.BASE_URL,
   routes
-})
+});
 
-export default router
+export default router;
