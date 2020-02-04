@@ -74,6 +74,7 @@
     <section class="banner style1 halfscreen onload-content-fade-down onscroll-image-fade-in orient-left">
       <div class="content">
         <h2>BlockHound</h2>
+        <hr style="color:red;">
         <h4>Inspired by the neighborhood app NextDoor, I wanted to build an app that helps track your dogs movements. Everyday NextDoor is riddled with posts about losts dogs with vague descriptions and locations. I have created an app that can track your dogs movements, alerts you if your dog escapes, and can notify nearby neighbors with your dogs description and real-time location.<img src="https://image.flaticon.com/icons/png/512/21/21645.png" height="19px"></h4>
         <a href="http://localhost:8080/blockhound" class="button">Learn More</a>
         <br>
@@ -86,6 +87,7 @@
     <section class="banner style1 onload-content-fade-down orient-right">
       <div class="content">
         <h2>Corsega Eyewear</h2>
+        <hr style="color:red;">
         <h4>Following my entrepreneurial spirit, I wanted to build a company. I would constantly break or lose expensive sunglasses. I believed stylish, quality sunglasses with polarized lenses should be affordable. So in 2014, after a year of research and development, I launched my own sunglasses company: Corsega Eyewear. 
         </h4>
         <h3 style="color:red;">#CorsegaEyewear</h3>
