@@ -4,49 +4,49 @@
       <link rel="stylesheet" href="https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css">
     </head>
     <body>
-    <!-- Header -->
-      <section class="banner style1 fullscreen onload-image-fade-in">
+
+<!-- Header -->
+      <section class="banner style1 fullscreen onscroll-image-fade-in onscroll-content-fade-in">
         <div class="content">
           <h1>Aria Nikzad</h1>
           <h4 style="color:red;">Full Stack Developer</h4><h4>Business Manager</h4><h4>Entrepreneur</h4>
         </div>
         <div class="image">
-          <img src="https://i.imgur.com/GlVmbR9.jpg" alt="Alternate text"  width="300"/>
+          <img src="../../public/images/Resume/HeadShot.jpg" alt="Alternate text"  width="300"/>
         </div>
       </section>
 
-      <!-- Statement -->
-      <section class="spotlight style1 orient-right onload-image-fade-in">
+<!-- Statement -->
+      <section class="spotlight style1 orient-right onscroll-image-fade-in onscroll-content-fade-in">
         <div class="content">
           <h4>"Working hard for something we don’t care about is called stress;<br>working hard for something we love is called passion."</h4>
           <i style="color:red;">- Simon Sinek</i>
         </div>
         <div class="image">
-          <img src="https://i.imgur.com/QqbzOqV.jpg" alt="Alternate text"  width="300"/>
+          <img src="../../public/images/Resume/Blue2.jpg" alt="Alternate text"  width="300"/>
         </div>
       </section>
 
-      <section class="spotlight style1 fullscreen onscroll-image-fade-in">
+<!-- Intro -->
+      <section class="spotlight style1 fullscreen onscroll-image-fade-in onscroll-content-fade-in">
         <div class="content">
           <h2>Welcome!</h2>
-          <h5>Thank you for taking the time to learn about my professional and personal life. The bulk of my career has primarily consisted of business management and entrepreneurship. Most recently, I have fulfilled a longtime goal of mine to learn fullstack development.</h5>
-          <h5>Outside of the professional world, you can find me mountain biking, hiking, camping, or at a newly discovered brewery with my dog.</h5>
-          <br>
-          <br>
-          <br>
+          <h4>Thank you for taking the time to learn about my professional and personal life. The bulk of my career has primarily consisted of business management and entrepreneurship. Most recently, I have fulfilled a longtime goal of mine to learn fullstack development.</h4>
           <br>
           <br>
           <br>
         </div>
         <div class="image" onscroll-fade-in>
-          <img src="https://i.imgur.com/bviAolZ.jpg" alt="Alternate text" width="700"/>
+          <img src="../../public/images/Resume/graduation.jpg" alt="Alternate text" width="700"/>
         </div>
       </section>
       <br>
       <center>
         <h2>Education</h2>
       </center>
-      <div class="items style1 big (optional modifiers)">
+
+<!-- Education -->
+      <div class="items style1 big onscroll-image-fade-in onscroll-content-fade-in">
         <section>
           <center>
             <a href="https://www.sfsu.edu/" class="image">
@@ -56,7 +56,6 @@
           </center>
         </section>
         <section>
-
             <ul>
               <li>Marketing Research</li>
               <li>Marketing Management</li>
@@ -71,7 +70,6 @@
               <li>Operations Management</li>
               <li>Business Calculus</li>
             </ul>
-
         </section>
         <section>
           <center>
@@ -91,12 +89,14 @@
             <li>CSS</li>
             <li>Vue.js</li>
             <li>HTML</li>
+            <li>HTML5</li>
             <li>Object Oriented Programming</li>
           </ul>
         </section>
       </div>
 
-      <section class="banner style1 halfscreen onload-content-fade-down onscroll-image-fade-in orient-left">
+<!-- BlockHound -->
+      <section class="banner style1 halfscreen onscroll-image-fade-in onscroll-content-fade-in orient-left">
         <div class="content">
           <h2>BlockHound</h2>
           <hr style="color:red;">
@@ -107,6 +107,7 @@
               <i id="prog-icon" class="devicon-ruby-plain colored"></i>
               <i id="prog-icon" class="devicon-rails-plain"></i>
               <i id="prog-icon" class="devicon-git-plain"></i>
+              <i id="prog-icon" class="devicon-github-plain"></i>
               <i id="prog-icon" class="devicon-vuejs-plain"></i>
               <i id="prog-icon" class="devicon-html5-plain"></i>
               <i id="prog-icon" class="devicon-css3-plain"></i>
@@ -123,7 +124,9 @@
           <img src="https://i.imgur.com/1zdoZSV.png" alt="Alternate text" />
         </div>
       </section>
-      <section class="banner style1 onload-content-fade-down orient-right">
+
+<!-- Corsega -->
+      <section class="banner style1 onscroll-content-fade-down orient-right">
         <div class="content">
           <h2>Corsega Eyewear</h2>
           <hr style="color:red;">
@@ -141,9 +144,10 @@
           <img src="https://i.imgur.com/suE8nPM.jpg" alt="Alternate text" />
         </div>
       </section>
-      <!-- gallery -->
+
+<!-- Gallery -->
       <section class="wrapper style1 align-center">
-        <div class="gallery style1 onscroll-fade-in lightbox large">
+        <div class="gallery style1 onscroll-image-fade-in onscroll-content-fade-in lightbox large">
           <div class="inner" style="overflow: hidden;">
             <article>
               <a href="(full image URL)" class="image">
@@ -180,8 +184,38 @@
           </div>
         </div>
       </section>
-  <!-- Items -->
+<!-- Costco -->
+      <section class="spotlight style1 onscroll-content-fade-down orient-left">
+        <div class="content">
+          <h2>Management</h2>
+          <hr style="color:red;">
+          <h4>Costco has provided me with incredible opportunities to work with management teams spanning across different departments. I've had the experience of growing my leadership skills by adapting to new roles, learning new systems, and managing new teams all while providng our members with the best service possible. 
+          </h4>
+        </div>
+        <div class="image">
+          <img src="https://media-exp1.licdn.com/dms/image/C4E1BAQHQKqO0DbY4OA/company-background_10000/0?e=2159024400&v=beta&t=-EELtqe3CnaVHBvrfClK-GxpDvYh-jP0g3wc5OUN4Dg" alt="Alternate text" />
+        </div>
+      </section>
+      <section class="spotlight style1 fullscreen onscroll-content-fade-down orient-right">
+        <div class="content">
+          <h2>Outside of the Professional World</h2>
+          <hr style="color:red;">
+          <h4>As much time as I spend indoors on my computer, I try to balance my time with outdoor activities. My hobbys range from mountain biking and hiking, to collecting staghorn ferns and reading non-fiction books about history. A local pop up restaurant or newly discovered brewery is where you can find me on weekend evening.
+          </h4>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
 
+        </div>
+        <div class="image">
+          <img src="../../public/images/Resume/Downieville.jpg" />
+        </div>
+      </section>
     </body>
   </div>
 </template>
@@ -190,13 +224,13 @@
 </style>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue';
+// // @ is an alias to /src
+// import HelloWorld from '@/components/HelloWorld.vue';
 
-export default {
-  name: 'home',
-  components: {
-    HelloWorld
-  }
-};
+// export default {
+//   name: 'home',
+//   components: {
+//     HelloWorld
+//   }
+// };
 </script>
