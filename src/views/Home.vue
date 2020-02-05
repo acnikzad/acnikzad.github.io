@@ -9,6 +9,7 @@
       <section class="banner style1 fullscreen onscroll-image-fade-in onscroll-content-fade-in">
         <div class="content">
           <h1>Aria Nikzad</h1>
+          <hr>
           <h4 style="color:red;">Full Stack Developer</h4><h4>Business Manager</h4><h4>Entrepreneur</h4>
         </div>
         <div class="image">
@@ -19,8 +20,8 @@
 <!-- Statement -->
       <section class="spotlight style1 orient-right onscroll-image-fade-in onscroll-content-fade-in">
         <div class="content">
-          <h4>"Working hard for something we don’t care about is called stress;<br>working hard for something we love is called passion."</h4>
-          <i style="color:red;">- Simon Sinek</i>
+          <h3>"I am ready to face any challenge that might be foolish enough to face me."</h3>
+          <i style="color:red;">- Dwight Schrute</i>
         </div>
         <div class="image">
           <img src="../../public/images/Resume/Blue2.jpg" alt="Alternate text"  width="300"/>
@@ -31,13 +32,14 @@
       <section class="spotlight style1 fullscreen onscroll-image-fade-in onscroll-content-fade-in">
         <div class="content">
           <h2>Welcome!</h2>
+          <hr>
           <h4>Thank you for taking the time to learn about my professional and personal life. The bulk of my career has primarily consisted of business management and entrepreneurship. Most recently, I have fulfilled a longtime goal of mine to learn fullstack development.</h4>
           <br>
           <br>
           <br>
         </div>
         <div class="image" onscroll-fade-in>
-          <img src="../../public/images/Resume/graduation.jpg" alt="Alternate text" width="700"/>
+          <img src="../../public/images/Resume/SFSUGrad.jpg" alt="Alternate text" width="700"/>
         </div>
       </section>
       <br>
@@ -49,6 +51,9 @@
       <div class="items style1 big onscroll-image-fade-in onscroll-content-fade-in">
         <section>
           <center>
+            <br>
+            <br>
+            <br>
             <a href="https://www.sfsu.edu/" class="image">
               <img src="https://d3n8a8pro7vhmx.cloudfront.net/intentionalendowments/pages/526/attachments/original/1528992324/SFState_Logo_H_rgb_2in.png?1528992324" alt="Alternate text" height="100"/>
             </a>
@@ -73,6 +78,9 @@
         </section>
         <section>
           <center>
+            <br>
+            <br>
+            <br>
             <a href="https://anyonecanlearntocode.com/" class="image">
               <img src="https://acltc-blog-pics.s3.amazonaws.com/uploads/blog_pic/blog_pic/24/ActualizeFinalwhiteBgLogo.png" alt="Alternate text" height="100"/>
             </a>
@@ -193,7 +201,7 @@
           </h4>
         </div>
         <div class="image">
-          <img src="https://media-exp1.licdn.com/dms/image/C4E1BAQHQKqO0DbY4OA/company-background_10000/0?e=2159024400&v=beta&t=-EELtqe3CnaVHBvrfClK-GxpDvYh-jP0g3wc5OUN4Dg" alt="Alternate text" />
+          <img src="../../public/images/Resume/costco.jpg" alt="Alternate text" />
         </div>
       </section>
       <section class="spotlight style1 fullscreen onscroll-content-fade-down orient-right">
