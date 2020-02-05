@@ -63,16 +63,16 @@
         <section>
             <ul>
               <li>Marketing Research</li>
-              <li>Marketing Management</li>
+              <li>Consumer Behavior</li>
               <li>International Marketing Strategy</li>
               <li>Digital Marketing</li>
               <li>Business Communications</li>
               <li>Micro and Macro Economics</li>
-              <li>Business Finance</li>
+              <li>Finance and Business Accounting</li>
               <li>Marketing Theory</li>
               <li>Retail Management</li>
-              <li>Retail Management</li>
               <li>Operations Management</li>
+              <li>Calculus</li>
               <li>Business Calculus</li>
             </ul>
         </section>
@@ -158,7 +158,7 @@
         <div class="gallery style1 onscroll-image-fade-in onscroll-content-fade-in lightbox large">
           <div class="inner" style="overflow: hidden;">
             <article>
-              <a href="(full image URL)" class="image">
+              <a class="image">
                 <img src="https://i.imgur.com/H9gGPSz.jpg" alt="Alternate text" />
               </a>
               <div class="caption">
@@ -166,7 +166,7 @@
               </div>
             </article>
             <article>
-              <a href="(full image URL)" class="image">
+              <a class="image">
                 <img src="https://i.imgur.com/jh9QPmt.jpg" alt="Alternate text" />
               </a>
               <div class="caption">
@@ -174,7 +174,7 @@
               </div>
             </article>
             <article>
-              <a href="(full image URL)" class="image">
+              <a class="image">
                 <img src="https://i.imgur.com/LlAlhkA.jpg" alt="Alternate text" />
               </a>
               <div class="caption">
@@ -182,7 +182,7 @@
               </div>
             </article>
             <article>
-              <a href="(full image URL)" class="image">
+              <a class="image">
                 <img src="https://i.imgur.com/bSgn2It.jpg" alt="Alternate text" />
               </a>
               <div class="caption">
@@ -197,7 +197,7 @@
         <div class="content">
           <h2>Management</h2>
           <hr style="color:red;">
-          <h4>Costco has provided me with incredible opportunities to work with management teams spanning across different departments. I've had the experience of growing my leadership skills by adapting to new roles, learning new systems, and managing new teams all while providng our members with the best service possible. 
+          <h4>Costco has provided me with incredible opportunities to work with management teams spanning across different departments. During my 14 year tenure, I've had the experience of growing my leadership skills by adapting to new roles, learning new systems, and managing new teams all while providng our members with the best service possible. 
           </h4>
         </div>
         <div class="image">
