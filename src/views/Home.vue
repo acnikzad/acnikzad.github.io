@@ -208,7 +208,7 @@
         <div class="content">
           <h2>Outside of the Professional World</h2>
           <hr style="color:red;">
-          <h4>As much time as I spend indoors on my computer, I try to balance my time with outdoor activities. My hobbys range from mountain biking and hiking, to collecting staghorn ferns and reading non-fiction books about history. A local pop up restaurant or newly discovered brewery is where you can find me on weekend evening.
+          <h4>As much time as I spend indoors on my computer, I try to balance my time with outdoor activities. My hobbys range from mountain biking and hiking, to collecting staghorn ferns and reading non-fiction books about history. A local pop up restaurant or newly discovered brewery is where you can find me on a weekend evening.
           </h4>
           <br>
           <br>
