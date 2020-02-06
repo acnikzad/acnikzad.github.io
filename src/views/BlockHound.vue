@@ -15,7 +15,7 @@
         <img src="../../public/images/Resume/beach.jpg" alt="Alternate text"  width="300"/>
       </div>
     </section>
-    <section class="banner style1 halfscreen onload-content-fade-down onscroll-image-fade-in orient-left">
+    <section class="banner style1 halfscreen onload-content-fade-down onscroll-image-fade-in orient-right">
       <div class="content">
         <h2>BlockHound</h2>
         <hr>
@@ -39,7 +39,7 @@
         <img src="https://i.imgur.com/1zdoZSV.png" alt="Alternate text" />
       </div>
     </section>
-    <section class="banner style1 halfscreen onload-content-fade-down onscroll-image-fade-in orient-right">
+    <section class="banner style1 halfscreen onload-content-fade-down onscroll-image-fade-in orient-left">
       <div class="content">
         <h2>Increasing Dog Safety Through Technology</h2>
         <hr>
@@ -50,6 +50,26 @@
       </div>
       <div class="image">
         <img src="https://i.imgur.com/iPi45bv.png" alt="Alternate text"/>
+      </div>
+    </section>
+    <section class="banner style1 onload-content-fade-down orient-right content-align-left">
+      <div class="content">
+        <h2 style="color:red;">Frameworks and Tools Used</h2>
+        <hr>
+        <ul>
+          <li>Ruby on Rails</li>
+          <li>Javascript</li>
+          <li>HTML</li>
+          <li>HTML5</li>
+          <li>CSS</li>
+          <li>Vue.js</li>
+          <li>APIs</li>
+          <li>Git</li>
+          <li>Bootstrap</li>
+        </ul>
+      </div>
+      <div class="image">
+        <img src="../../public/images/Resume/BHDashboard.jpg" alt="Alternate text" />
       </div>
     </section>
   </div>

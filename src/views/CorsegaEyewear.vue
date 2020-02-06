@@ -35,7 +35,7 @@
     <section class="spotlight style1 onload-content-fade-down orient-left">
       <div class="content">
         <h2 style="color:red;">A Proud Accomplishment</h2>
-        <h4>Once the online store became live, I marketed my sunglasses online through social media and paid advertising. I took direct lessons from my Digital Marketing classes and applied them to my real time business project. I soon found strategies and techniques that were much more efficient than others, such as Search Engine Optimization (SE0) vs. Search Engine Marketing (SEM). My sunglasses were also being sold through boutiques throughout the San Francisco and Petaluma area. I reached profitability within 11 months and ran the company for another two years before shutting it down and relocating to the Sacramento area. 
+        <h4>Once the online store became live, I marketed my sunglasses through social media and paid advertising. I took direct lessons from my Digital Marketing classes and applied them to my real time business project. I soon found strategies and techniques that were much more efficient than others, such as Search Engine Optimization (SEO) vs. Search Engine Marketing (SEM). My sunglasses were also being sold in boutiques throughout the San Francisco and Petaluma area. I reached profitability within 11 months and ran the company for another two years before shutting it down and relocating to the Sacramento area. 
         </h4>
         <br>
         <br>
