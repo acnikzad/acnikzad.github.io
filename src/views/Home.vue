@@ -210,7 +210,7 @@
           <hr style="color:red;">
           <h4>As much time as I spend indoors on my computer, I try to balance my time with outdoor activities. My hobbys range from mountain biking and hiking, to collecting staghorn ferns and reading non-fiction books about history. A local pop up restaurant or newly discovered brewery is where you can find me on a weekend evening.
           </h4>
-          <h4>I have been active in the crypto currency space since 2013 and have a strong interest to learn more about blockchain technology. My goal by the end of 2020 is to learn Solidity, an object-oriented programming language for writing smart contracts on the blockchain.</h4>
+          <h4>I have been active in the crypto currency space since 2013 and have a strong interest to learn more about blockchain technology. My goal by the end of 2020 is to learn <a style="color:red;">Solidity</a>, an object-oriented programming language for writing smart contracts on the blockchain.</h4>
           <br>
           <br>
           <br>
