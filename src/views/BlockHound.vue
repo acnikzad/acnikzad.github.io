@@ -54,7 +54,7 @@
     </section>
     <section class="banner style1 onload-content-fade-down orient-right content-align-left">
       <div class="content">
-        <h2 style="color:red;">Frameworks and Tools Used</h2>
+        <h2 style="color:red;">Languages, Frameworks and Tools Used</h2>
         <hr>
         <ul>
           <li>Ruby on Rails</li>
