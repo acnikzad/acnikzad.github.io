@@ -5,6 +5,7 @@
     </head>
     <body>
 
+
 <!-- Header -->
       <section class="banner style1 fullscreen onscroll-image-fade-in onscroll-content-fade-in">
         <div class="content">
@@ -13,7 +14,7 @@
           <h4 style="color:red;">Full Stack Developer</h4><h4>Business Manager</h4><h4>Entrepreneur</h4>
         </div>
         <div class="image">
-          <img src="../../public/images/Resume/HeadShot.jpg" alt="Alternate text"  width="300"/>
+          <img src="../../public/images/Resume/HeadShot.jpg" fluid alt="Responsive image"  width="300"/>
         </div>
       </section>
 
@@ -197,7 +198,7 @@
         <div class="content">
           <h2>Management</h2>
           <hr style="color:red;">
-          <h4>Costco has provided me with incredible opportunities to work with management teams spanning across different departments. During my 14 year tenure, I've had the experience of growing my leadership skills by adapting to new roles, learning new systems, and managing new teams all while providng our members with the best service possible. 
+          <h4>Costco has provided me with incredible opportunities to work with management teams spanning across different departments. During my 14 year tenure, I've had the experience of growing my leadership skills by adapting to new roles, learning new systems, and managing new teams all while providing our members with the best service possible. 
           </h4>
         </div>
         <div class="image">
@@ -210,8 +211,7 @@
           <hr style="color:red;">
           <h4>As much time as I spend indoors on my computer, I try to balance my time with outdoor activities. My hobbys range from mountain biking and hiking, to collecting staghorn ferns and reading non-fiction books about history. A local pop up restaurant or newly discovered brewery is where you can find me on a weekend evening.
           </h4>
-          <h4>I have been active in the crypto currency space since 2013 and have a strong interest to learn more about blockchain technology. My goal by the end of 2020 is to learn <a style="color:red;">Solidity</a>, an object-oriented programming language for writing smart contracts on the blockchain.</h4>
-          <br>
+          <h4>I have been active in the crypto currency space since 2013 and have a strong interest to learn more about blockchain technology. My goal by the end of 2020 is to become proficient in <a style="color:red;">Solidity</a>, an object-oriented programming language for writing smart contracts on the blockchain.</h4>
           <br>
           <br>
           <br>
@@ -233,13 +233,5 @@
 </style>
 
 <script>
-// // @ is an alias to /src
-// import HelloWorld from '@/components/HelloWorld.vue';
 
-// export default {
-//   name: 'home',
-//   components: {
-//     HelloWorld
-//   }
-// };
 </script>
