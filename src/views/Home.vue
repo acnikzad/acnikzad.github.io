@@ -21,8 +21,8 @@
 <!-- Statement -->
       <section class="spotlight style1 orient-right onscroll-image-fade-in onscroll-content-fade-in">
         <div class="content">
-          <h3>"I am ready to face any challenge that might be foolish enough to face me."</h3>
-          <i style="color:red;">- Dwight Schrute</i>
+          <h3>"If you're trying to achieve, there will be roadblocks. I've had them; everybody has had them. But obstacles don't have to stop you. If you run into a wall, don't turn around and give up. Figure out how to climb it, go through it, or work around it."</h3>
+          <i style="color:red;">- Michael Jordan</i>
         </div>
         <div class="image">
           <img src="../../public/images/Resume/Blue2.jpg" alt="Alternate text"  width="300"/>
@@ -63,6 +63,7 @@
         </section>
         <section>
             <ul>
+              <li>Information Systems Technology</li>
               <li>Marketing Research</li>
               <li>Consumer Behavior</li>
               <li>International Marketing Strategy</li>
@@ -70,7 +71,6 @@
               <li>Business Communications</li>
               <li>Micro and Macro Economics</li>
               <li>Finance and Business Accounting</li>
-              <li>Marketing Theory</li>
               <li>Retail Management</li>
               <li>Operations Management</li>
               <li>Calculus</li>
