@@ -21,8 +21,8 @@
 <!-- Statement -->
       <section class="spotlight style1 orient-right onscroll-image-fade-in onscroll-content-fade-in">
         <div class="content">
-          <h3>"If you're trying to achieve, there will be roadblocks. I've had them; everybody has had them. But obstacles don't have to stop you. If you run into a wall, don't turn around and give up. Figure out how to climb it, go through it, or work around it."</h3>
-          <i style="color:red;">- Michael Jordan</i>
+          <h3>"The same boiling water that softens the potato hardens the egg. It's about what you're made of, not the circumstances."</h3>
+          <i style="color:red;">- Mel Robbins</i>
         </div>
         <div class="image">
           <img src="../../public/images/Resume/Blue2.jpg" alt="Alternate text"  width="300"/>
